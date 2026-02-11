@@ -1,1 +1,2 @@
-
+1. DATA VERSIONING VIA DVC - https://github.com/curiouscurrent/MLOPS-DVC-Tool
+2. CODE VERSIONING VIA GITHUB - https://github.com/curiouscurrent/git-prod
