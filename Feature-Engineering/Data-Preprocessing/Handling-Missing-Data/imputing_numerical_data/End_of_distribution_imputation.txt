@@ -1,0 +1,14 @@
+if the column you are looking to impute is normally distributed, use (mean + 3 sigma) or (mean - 3 sigma) , here sigma = standard deviation
+-> basically we are imputing with the outlier 
+
+if the column you are imputing is skewed, then follow the IQR proximity rule : 
+IQR = Q3 - Q1
+so fill it with either 
+(Q1 - 1.5IQR)
+(Q3 + 1.5IQR) 
+
+25th percentile -> Q1
+75TH PERCENTILE -> Q3
+same disadvantages as mean median imputation
+when to use ? 
+when data is not missing at random, but in chunks, either 1st half, middle half, last half, etc. 
