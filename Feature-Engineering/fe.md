@@ -11,6 +11,7 @@
 4. Feature Scaling
 
 ## Feature Construction
+1. Feature construction & Feature Splitting
 
 ## Feature Selection
 
