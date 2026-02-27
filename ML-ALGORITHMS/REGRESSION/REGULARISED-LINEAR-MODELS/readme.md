@@ -1,5 +1,7 @@
 # RIDGE REGRESSION
 
+(also called L2 Regularisation)
+
 Why is it called Ridge ? Because the solution is on the perimeter/ridge of the circle. And the solution is the closest point to the OLS Estimate. 
 
 OLS estimate -> is the min value of loss, without regularisation
