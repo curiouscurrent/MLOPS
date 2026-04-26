@@ -6,3 +6,4 @@
 2. DATA VERSIONING VIA DVC - https://github.com/curiouscurrent/MLOPS-DVC-Tool
 3. CODE VERSIONING VIA GITHUB - https://github.com/curiouscurrent/git-prod
 4. MLflow - https://github.com/curiouscurrent/mlflow
+5. Continuous Integration - https://github.com/curiouscurrent/continuous-integration-mlops
