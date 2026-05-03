@@ -7,3 +7,4 @@
 3. CODE VERSIONING VIA GITHUB - https://github.com/curiouscurrent/git-prod
 4. MLflow - https://github.com/curiouscurrent/mlflow
 5. Continuous Integration - https://github.com/curiouscurrent/continuous-integration-mlops
+6. Docker - https://github.com/curiouscurrent/docker-mlops
