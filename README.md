@@ -9,5 +9,5 @@
 5. MLflow - https://github.com/curiouscurrent/mlflow
 6. Continuous Integration - https://github.com/curiouscurrent/continuous-integration-mlops
 7. Docker - https://github.com/curiouscurrent/docker-mlops
-8. MongoDB - https://github.com/curiouscurrent/mongodb-mlops
+8. MongoDB - https://github.com/curiouscurrent/MLOPS-project---Vehicle-Insurance-Domain
    
